@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Todo Listo
 
 Una aplicación de lista de tareas desarrollada con Flutter.
@@ -93,4 +92,3 @@ Si tienes dudas o sugerencias, no dudes en contactar:
 
 - GitHub: @richardrm12
 - [LinkedIn](https://www.linkedin.com/in/richard-de-jes%C3%BAs-ram%C3%ADrez-meza-84a91822b/)
->>>>>>> 5a9693ec474f1997f4e7bcec793ae093dfb006b8
