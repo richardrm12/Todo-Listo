@@ -1,21 +1,72 @@
-<<<<<<< HEAD
-# todo_listo
+# Todo Listo  
+Una aplicación de lista de tareas desarrollada con Flutter.  
 
-A new Flutter project.
+## Características  
+- **Crear, editar y eliminar tareas**: Gestiona tus tareas de forma eficiente.  
+- **Marcar tareas como completadas**: Organiza mejor tus prioridades.  
+- **Interfaz intuitiva y fácil de usar**: Navegación sencilla para todos los usuarios.  
+- **Diseño moderno y responsivo**: Optimizado para dispositivos móviles y tablets.  
 
-## Getting Started
+## Requisitos previos  
+Asegúrate de tener los siguientes elementos instalados en tu sistema:  
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- [Dart SDK](https://dart.dev/get-dart)  
+- [Android Studio](https://developer.android.com/studio) o [Visual Studio Code](https://code.visualstudio.com/)  
+- [Git](https://git-scm.com/)  
 
-This project is a starting point for a Flutter application.
+## Instalación  
+1. Clona este repositorio:
+   
+   ```bash  
+   git clone https://github.com/tu_usuario/todo-listo.git
 
-A few resources to get you started if this is your first Flutter project:
+2. Accede al directorio del proyecto:
+   
+   ```bash  
+   cd todo-listo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Accede al directorio del proyecto:
+   
+   ```bash  
+   flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Todo-Listo
-Todo Listo es una aplicación móvil para gestionar tareas diarias, permitiendo crear, editar y marcar como completadas las diferentes actividades del usuario.
->>>>>>> 76dbaf63af8f28e2b041a02599beb65904685b98
+4. Accede al directorio del proyecto:
+   
+   ```bash  
+   flutter run 
+
+## Contribuciones
+
+Si quieres contribuir al desarrollo de este proyecto, sigue estos pasos:
+    
+1. Haz un fork del repositorio.
+     
+2. Crea una rama para tu nueva funcionalidad o corrección:
+
+   ```bash  
+   git checkout -b feature/nueva-funcionalidad
+
+3. Realiza tus cambios y haz un commit:
+
+   ```bash  
+   git commit -m "Nueva funcionalidad"  
+
+4. Envía tus cambios al repositorio original:
+
+   ```bash  
+   git push origin feature/nueva-funcionalidad  
+
+5. Abre un Pull Request y describe los cambios que has realizado.
+
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT.
+
+
+## Contacto
+
+Si tienes dudas o sugerencias, no dudes en contactar:
+
+- GitHub: @richardrm12
+- [LinkedIn](https://www.linkedin.com/in/richard-de-jes%C3%BAs-ram%C3%ADrez-meza-84a91822b/)
